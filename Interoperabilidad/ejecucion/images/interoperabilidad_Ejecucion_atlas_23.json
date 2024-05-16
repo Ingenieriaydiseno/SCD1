@@ -1,0 +1,51 @@
+﻿{"frames": {
+
+"CachedBmp_24":
+{
+	"frame": {"x":0,"y":871,"w":1582,"h":155},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1582,"h":155},
+	"sourceSize": {"w":1582,"h":155}
+},
+"CachedBmp_27":
+{
+	"frame": {"x":0,"y":0,"w":1582,"h":236},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1582,"h":236},
+	"sourceSize": {"w":1582,"h":236}
+},
+"CachedBmp_3":
+{
+	"frame": {"x":0,"y":476,"w":1582,"h":236},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1582,"h":236},
+	"sourceSize": {"w":1582,"h":236}
+},
+"CachedBmp_38":
+{
+	"frame": {"x":0,"y":714,"w":1582,"h":155},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1582,"h":155},
+	"sourceSize": {"w":1582,"h":155}
+},
+"CachedBmp_6":
+{
+	"frame": {"x":0,"y":238,"w":1582,"h":236},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1582,"h":236},
+	"sourceSize": {"w":1582,"h":236}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "21.0.7.42652",
+	"image": "interoperabilidad_Ejecucion_atlas_23.png",
+	"format": "undefined",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}

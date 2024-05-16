@@ -1,0 +1,43 @@
+﻿{"frames": {
+
+"CachedBmp_127":
+{
+	"frame": {"x":0,"y":0,"w":1754,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1754,"h":260},
+	"sourceSize": {"w":1754,"h":260}
+},
+"CachedBmp_14":
+{
+	"frame": {"x":0,"y":262,"w":1582,"h":236},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1582,"h":236},
+	"sourceSize": {"w":1582,"h":236}
+},
+"CachedBmp_5":
+{
+	"frame": {"x":0,"y":738,"w":1582,"h":236},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1582,"h":236},
+	"sourceSize": {"w":1582,"h":236}
+},
+"CachedBmp_8":
+{
+	"frame": {"x":0,"y":500,"w":1582,"h":236},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1582,"h":236},
+	"sourceSize": {"w":1582,"h":236}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "21.0.7.42652",
+	"image": "carpeta_ejecucion_atlas_18.png",
+	"format": "undefined",
+	"size": {"w":2048,"h":1024},
+	"scale": "1"
+}
+}

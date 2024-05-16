@@ -1,0 +1,27 @@
+﻿{"frames": {
+
+"CachedBmp_25":
+{
+	"frame": {"x":0,"y":560,"w":1582,"h":397},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1582,"h":397},
+	"sourceSize": {"w":1582,"h":397}
+},
+"CachedBmp_9":
+{
+	"frame": {"x":0,"y":0,"w":1582,"h":558},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1582,"h":558},
+	"sourceSize": {"w":1582,"h":558}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "21.0.7.42652",
+	"image": "autenticacion_ejecucion_atlas_11.png",
+	"format": "undefined",
+	"size": {"w":2048,"h":1024},
+	"scale": "1"
+}
+}

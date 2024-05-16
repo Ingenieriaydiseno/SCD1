@@ -1,0 +1,67 @@
+﻿{"frames": {
+
+"CachedBmp_110":
+{
+	"frame": {"x":0,"y":0,"w":1754,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1754,"h":260},
+	"sourceSize": {"w":1754,"h":260}
+},
+"CachedBmp_12":
+{
+	"frame": {"x":0,"y":419,"w":1582,"h":155},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1582,"h":155},
+	"sourceSize": {"w":1582,"h":155}
+},
+"CachedBmp_205":
+{
+	"frame": {"x":1324,"y":576,"w":354,"h":371},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":354,"h":371},
+	"sourceSize": {"w":354,"h":371}
+},
+"CachedBmp_267":
+{
+	"frame": {"x":967,"y":576,"w":355,"h":416},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":355,"h":416},
+	"sourceSize": {"w":355,"h":416}
+},
+"CachedBmp_33":
+{
+	"frame": {"x":0,"y":262,"w":1582,"h":155},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1582,"h":155},
+	"sourceSize": {"w":1582,"h":155}
+},
+"CachedBmp_354":
+{
+	"frame": {"x":0,"y":576,"w":455,"h":431},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":455,"h":431},
+	"sourceSize": {"w":455,"h":431}
+},
+"CachedBmp_362":
+{
+	"frame": {"x":457,"y":576,"w":508,"h":374},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":508,"h":374},
+	"sourceSize": {"w":508,"h":374}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "21.0.7.42652",
+	"image": "autenticacion_ejecucion_atlas_13.png",
+	"format": "undefined",
+	"size": {"w":2048,"h":1024},
+	"scale": "1"
+}
+}

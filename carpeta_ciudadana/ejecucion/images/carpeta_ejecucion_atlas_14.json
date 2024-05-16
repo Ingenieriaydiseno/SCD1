@@ -1,0 +1,27 @@
+﻿{"frames": {
+
+"CachedBmp_11":
+{
+	"frame": {"x":0,"y":564,"w":1582,"h":478},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1582,"h":478},
+	"sourceSize": {"w":1582,"h":478}
+},
+"CachedBmp_67":
+{
+	"frame": {"x":0,"y":0,"w":1648,"h":562},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1648,"h":562},
+	"sourceSize": {"w":1648,"h":562}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "21.0.7.42652",
+	"image": "carpeta_ejecucion_atlas_14.png",
+	"format": "undefined",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}

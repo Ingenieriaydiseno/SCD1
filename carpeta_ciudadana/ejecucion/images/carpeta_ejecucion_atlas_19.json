@@ -1,0 +1,67 @@
+﻿{"frames": {
+
+"CachedBmp_24":
+{
+	"frame": {"x":0,"y":157,"w":1582,"h":155},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1582,"h":155},
+	"sourceSize": {"w":1582,"h":155}
+},
+"CachedBmp_25":
+{
+	"frame": {"x":0,"y":890,"w":1482,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1482,"h":98},
+	"sourceSize": {"w":1482,"h":98}
+},
+"CachedBmp_29":
+{
+	"frame": {"x":0,"y":790,"w":1510,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1510,"h":98},
+	"sourceSize": {"w":1510,"h":98}
+},
+"CachedBmp_335":
+{
+	"frame": {"x":1512,"y":314,"w":355,"h":416},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":355,"h":416},
+	"sourceSize": {"w":355,"h":416}
+},
+"CachedBmp_38":
+{
+	"frame": {"x":0,"y":0,"w":1582,"h":155},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1582,"h":155},
+	"sourceSize": {"w":1582,"h":155}
+},
+"CachedBmp_43":
+{
+	"frame": {"x":0,"y":690,"w":1510,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1510,"h":98},
+	"sourceSize": {"w":1510,"h":98}
+},
+"CachedBmp_433":
+{
+	"frame": {"x":0,"y":314,"w":508,"h":374},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":508,"h":374},
+	"sourceSize": {"w":508,"h":374}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "21.0.7.42652",
+	"image": "carpeta_ejecucion_atlas_19.png",
+	"format": "undefined",
+	"size": {"w":2048,"h":1024},
+	"scale": "1"
+}
+}

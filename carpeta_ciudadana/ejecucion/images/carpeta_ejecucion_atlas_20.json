@@ -1,0 +1,99 @@
+﻿{"frames": {
+
+"CachedBmp_10":
+{
+	"frame": {"x":0,"y":200,"w":1408,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1408,"h":98},
+	"sourceSize": {"w":1408,"h":98}
+},
+"CachedBmp_12":
+{
+	"frame": {"x":0,"y":100,"w":1432,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1432,"h":98},
+	"sourceSize": {"w":1432,"h":98}
+},
+"CachedBmp_26":
+{
+	"frame": {"x":0,"y":400,"w":1406,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1406,"h":98},
+	"sourceSize": {"w":1406,"h":98}
+},
+"CachedBmp_28":
+{
+	"frame": {"x":0,"y":954,"w":1290,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1290,"h":98},
+	"sourceSize": {"w":1290,"h":98}
+},
+"CachedBmp_283":
+{
+	"frame": {"x":1408,"y":476,"w":354,"h":371},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":354,"h":371},
+	"sourceSize": {"w":354,"h":371}
+},
+"CachedBmp_364":
+{
+	"frame": {"x":374,"y":500,"w":425,"h":284},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":425,"h":284},
+	"sourceSize": {"w":425,"h":284}
+},
+"CachedBmp_365":
+{
+	"frame": {"x":1410,"y":200,"w":485,"h":274},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":485,"h":274},
+	"sourceSize": {"w":485,"h":274}
+},
+"CachedBmp_40":
+{
+	"frame": {"x":0,"y":300,"w":1406,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1406,"h":98},
+	"sourceSize": {"w":1406,"h":98}
+},
+"CachedBmp_42":
+{
+	"frame": {"x":0,"y":854,"w":1290,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1290,"h":98},
+	"sourceSize": {"w":1290,"h":98}
+},
+"CachedBmp_425":
+{
+	"frame": {"x":0,"y":500,"w":372,"h":352},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":372,"h":352},
+	"sourceSize": {"w":372,"h":352}
+},
+"CachedBmp_9":
+{
+	"frame": {"x":0,"y":0,"w":1482,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1482,"h":98},
+	"sourceSize": {"w":1482,"h":98}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "21.0.7.42652",
+	"image": "carpeta_ejecucion_atlas_20.png",
+	"format": "undefined",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}

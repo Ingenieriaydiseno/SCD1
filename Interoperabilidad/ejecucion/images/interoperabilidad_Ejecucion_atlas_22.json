@@ -1,0 +1,35 @@
+﻿{"frames": {
+
+"CachedBmp_11":
+{
+	"frame": {"x":0,"y":0,"w":1582,"h":397},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1582,"h":397},
+	"sourceSize": {"w":1582,"h":397}
+},
+"CachedBmp_152":
+{
+	"frame": {"x":0,"y":399,"w":1754,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1754,"h":260},
+	"sourceSize": {"w":1754,"h":260}
+},
+"CachedBmp_41":
+{
+	"frame": {"x":0,"y":661,"w":1582,"h":236},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1582,"h":236},
+	"sourceSize": {"w":1582,"h":236}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "21.0.7.42652",
+	"image": "interoperabilidad_Ejecucion_atlas_22.png",
+	"format": "undefined",
+	"size": {"w":2048,"h":1024},
+	"scale": "1"
+}
+}
